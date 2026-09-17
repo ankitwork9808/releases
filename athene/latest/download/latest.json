@@ -1,4 +1,11 @@
 {
   "version": "0.1.0",
-  "url": "https://github.com/ankitwork9808/releases/athene/0.1.0/download/athene-0.1.0.dmg"
+  "notes": "Athene 0.1.0",
+  "pub_date": "2026-09-17T19:28:36Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWlUU2ZDa0RVWmIyMERQK0tZUThFN2cvZlh0UkZadVl1OHE5aXNxNU5ObFdGZHhRZVhLTVJoWkJ4bHdaaVdVSWUvRC9wd0hrVVlYaVEvWm5TVjBQN2pUUk5ldkFwV2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcyMTUzCWZpbGU6QXRoZW5lLmFwcC50YXIuZ3oKSzh6R3BlelFWTWhOclEzTndlRHlJbTA4OVU2bC8xYnlxa1BDaGNFN3haZmljTE0xVEpYMndiZGNTN2R5ZjVKYllFbUcwVmpWc1BHaEx4V2RoUmovQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/ankitwork9808/releases/main/athene/0.1.0/download/Athene.app.tar.gz"
+    }
+  }
 }
