@@ -1,0 +1,11 @@
+{
+  "version": "1.0.9",
+  "notes": "Athene 1.0.9",
+  "pub_date": "2026-10-03T20:49:29Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWlUU2ZDa0RVWlZnUGJRdDRFaVo2RUZXL2hFQkp2Uzkvd2hYTC93RFBreXZ4SUJhOHlLNGd3TEF6cEtpTW9xb3FVUE05ZEF6UW92OUNNZ2p3OVg5R3NDYXhBN09mU3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDYwNTY5CWZpbGU6QXRoZW5lXzEuMC45X3g2NC1zZXR1cC5leGUKa2tRS1l6QjBQZVNiSFRGVmVUTEtDdXlsM21zUVJTNm5jc1JGb1NGK2h2cmR4aG5UajlFQUVKei90c1dLZnpWakxMVnJVSktqUVNsRkRDakttcCtoQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ankitwork9808/releases/main/athene/1.0.9/download/Athene_1.0.9_x64-setup.exe"
+    }
+  }
+}
