@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-15T00:00:00Z",
+  "updatedAt": "2026-10-14T23:39:52Z",
   "days": [
+    {
+      "date": "2026-10-14",
+      "version": "1.1.1",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Push to talk: hold Option+V (or click the notch mic) to see your words live in the notch"
+        },
+        {
+          "type": "feature",
+          "text": "Notes: long notes collapse to 4 lines with an expand sheet, and markdown, JSON and code are formatted"
+        },
+        {
+          "type": "fix",
+          "text": "Option+A typing sound no longer keeps playing in the background"
+        },
+        {
+          "type": "fix",
+          "text": "Copying inside Athene no longer adds to Clipboard history"
+        },
+        {
+          "type": "improvement",
+          "text": "More bottom padding on the Meet, Todo, Note and Chat tabs"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "version": "1.1.0",
@@ -129,7 +155,7 @@
         },
         {
           "type": "fix",
-          "text": "Double-tap no longer clears what you’re typing"
+          "text": "Double-tap no longer clears what you\u2019re typing"
         }
       ]
     },
@@ -243,7 +269,7 @@
         },
         {
           "type": "improvement",
-          "text": "Notepad follows the screen or chat you’re in; cleaner titles"
+          "text": "Notepad follows the screen or chat you\u2019re in; cleaner titles"
         }
       ]
     },
@@ -341,7 +367,7 @@
       "changes": [
         {
           "type": "feature",
-          "text": "Floating owl — hover or click to open chat or notes"
+          "text": "Floating owl \u2014 hover or click to open chat or notes"
         },
         {
           "type": "feature",
