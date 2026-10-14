@@ -1,0 +1,365 @@
+{
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "days": [
+    {
+      "date": "2026-10-15",
+      "version": "1.1.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Notch owl with notifications, close/expand, and auto-hide"
+        },
+        {
+          "type": "feature",
+          "text": "Push-to-talk voice on the notch"
+        },
+        {
+          "type": "feature",
+          "text": "Release notes timeline in Settings"
+        },
+        {
+          "type": "improvement",
+          "text": "Notes and clipboard polish; quieter typing sounds"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "version": "1.0.9",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Richer todo lists and repeating todos with deadline recovery"
+        },
+        {
+          "type": "feature",
+          "text": "Import meeting files; copy or delete people and topics"
+        },
+        {
+          "type": "improvement",
+          "text": "Pinned chats stay on top; quieter suggestion prompts"
+        },
+        {
+          "type": "fix",
+          "text": "Clearer wipe-all-data; inline rewrite works in browsers and on Windows"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "version": "1.0.8",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Windows app with automatic updates"
+        },
+        {
+          "type": "feature",
+          "text": "Desktop notifications"
+        },
+        {
+          "type": "feature",
+          "text": "Review saved links; smarter people and topic detection"
+        },
+        {
+          "type": "improvement",
+          "text": "Notes reopen faster after you close the panel"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "version": "1.0.7",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Owl Trace integration and mark todos complete from the flow"
+        },
+        {
+          "type": "feature",
+          "text": "Keyboard shortcut to capture a todo"
+        },
+        {
+          "type": "feature",
+          "text": "Backup your Athene data"
+        },
+        {
+          "type": "fix",
+          "text": "Open files from the clipboard more reliably"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "version": "1.0.6",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Update Athene from inside the app"
+        },
+        {
+          "type": "feature",
+          "text": "Optional install and usage insights"
+        },
+        {
+          "type": "feature",
+          "text": "Settings for chat and meeting summaries"
+        },
+        {
+          "type": "improvement",
+          "text": "Smoother close animation, sidebar, and focus"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "version": "1.0.5",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Meeting summaries, chat about a meeting, and summary todos"
+        },
+        {
+          "type": "feature",
+          "text": "Clipboard updates live when the panel is open"
+        },
+        {
+          "type": "improvement",
+          "text": "Fresher meeting and chat layouts"
+        },
+        {
+          "type": "fix",
+          "text": "Double-tap no longer clears what you’re typing"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "version": "1.0.4",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Dedicated transcript page"
+        },
+        {
+          "type": "feature",
+          "text": "Pin chats and threads in the sidebar"
+        },
+        {
+          "type": "feature",
+          "text": "Avatars and name initials across the app"
+        },
+        {
+          "type": "improvement",
+          "text": "Clearer top navigation and icons"
+        },
+        {
+          "type": "fix",
+          "text": "Athene no longer captures itself as the frontmost app; cleaner video corners"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "version": "1.0.3",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Longer chats load in pages so scrolling stays smooth"
+        },
+        {
+          "type": "feature",
+          "text": "Chat connects more tightly with todos and people"
+        },
+        {
+          "type": "feature",
+          "text": "Floating note window"
+        },
+        {
+          "type": "fix",
+          "text": "Input no longer freezes; large recordings play more smoothly"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "version": "1.0.2",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Transcribe audio and video on your Mac"
+        },
+        {
+          "type": "feature",
+          "text": "Automatically find people and topics in notes and transcripts"
+        },
+        {
+          "type": "feature",
+          "text": "Transcription settings and clearer labels"
+        },
+        {
+          "type": "improvement",
+          "text": "Move todos between lists; old clipboard and auto-reply history clean up on their own"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "version": "1.0.1",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Screen recording for longer sessions"
+        },
+        {
+          "type": "feature",
+          "text": "Save clipboard items as notes"
+        },
+        {
+          "type": "feature",
+          "text": "Record with mic or headphones; media saves in a reliable place"
+        },
+        {
+          "type": "fix",
+          "text": "More stable long recordings and clearer mic permission prompts"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "version": "1.0.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Todos with search, dates, and find-in-note"
+        },
+        {
+          "type": "feature",
+          "text": "Audio recording from the owl"
+        },
+        {
+          "type": "feature",
+          "text": "Smarter Ask over your notes and screen snapshots"
+        },
+        {
+          "type": "improvement",
+          "text": "Notepad follows the screen or chat you’re in; cleaner titles"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "version": "0.9.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Notes remember which app and window they came from"
+        },
+        {
+          "type": "feature",
+          "text": "Ask questions across your notes with forgiving search"
+        },
+        {
+          "type": "improvement",
+          "text": "More reliable answers when Ask talks to the AI"
+        },
+        {
+          "type": "improvement",
+          "text": "Friendly status while Ask is working (Thinking, Searching, and more)"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "version": "0.8.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Manual screen snapshots and better reading of on-screen text"
+        },
+        {
+          "type": "feature",
+          "text": "Auto-reply history and auto-open when a reply is ready"
+        },
+        {
+          "type": "improvement",
+          "text": "Better screenshot capture; signed Mac builds ready to install"
+        },
+        {
+          "type": "fix",
+          "text": "Clipboard paste quirks and rare crashes while capturing"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "version": "0.7.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Welcome onboarding and erase all your Athene data"
+        },
+        {
+          "type": "feature",
+          "text": "Custom instructions per chat, with title and guidance"
+        },
+        {
+          "type": "feature",
+          "text": "Athene name and app icon"
+        },
+        {
+          "type": "improvement",
+          "text": "Clearer messages when an AI reply fails"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "version": "0.6.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Global shortcuts for capture and rewrite"
+        },
+        {
+          "type": "feature",
+          "text": "AI rewrite in chat with loading, copy, and retry"
+        },
+        {
+          "type": "feature",
+          "text": "Control+R auto-reply with typing sound"
+        },
+        {
+          "type": "improvement",
+          "text": "Failed AI replies are easier to understand and retry"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "version": "0.5.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Floating owl — hover or click to open chat or notes"
+        },
+        {
+          "type": "feature",
+          "text": "Saved chats and notes with search and recent threads"
+        },
+        {
+          "type": "feature",
+          "text": "Settings, pin the panel, and free-the-owl mode"
+        },
+        {
+          "type": "improvement",
+          "text": "Glass look, peek animations, and edit or delete messages"
+        },
+        {
+          "type": "fix",
+          "text": "Smoother close, scroll chrome, and empty states"
+        }
+      ]
+    }
+  ]
+}
