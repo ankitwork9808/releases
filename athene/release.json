@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-14T23:39:52Z",
+  "updatedAt": "2026-10-15T20:48:05Z",
   "days": [
+    {
+      "date": "2026-10-15",
+      "version": "1.1.2",
+      "changes": [
+        {
+          "type": "improvement",
+          "text": "The panel opens and closes from the orb in one motion, and you can drag the orb up or down a screen edge"
+        },
+        {
+          "type": "fix",
+          "text": "Passing the cursor over the orb no longer opens the panel; it waits until you pause on it"
+        },
+        {
+          "type": "improvement",
+          "text": "Todo actions (repeat, deadline, history, edit, delete, and move) sit in one toolbar"
+        },
+        {
+          "type": "fix",
+          "text": "Thread list: search sits above the list, and New is next to the history button"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "version": "1.1.1",

@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Athene 1.1.1",
-  "pub_date": "2026-10-14T23:39:52Z",
+  "version": "1.1.2",
+  "notes": "Athene 1.1.2",
+  "pub_date": "2026-10-15T20:48:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWlUU2ZDa0RVWlZUMWNNWE9zWmYzanFQK1ljVkVUcTdaS3JkdC9xK3NyZkpaRS9iTGpsd0hZTzBkVWlKM3kzNEZGK2sxV0hhdTN2ekxwTVR5TzBTeEN5VWxXcUdBRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDIwODY2CWZpbGU6QXRoZW5lLmFwcC50YXIuZ3oKWDVaL1Nmb1YxaG93MDlTNkJvdldBYkRBM0dHdXpxbm1odU11clg3czZPS05iY0k4dWpyTE11UlRxdmRwbHpoaEJvYThtckUvZkRIejJRWE81YkFkQVE9PQo=",
-      "url": "https://raw.githubusercontent.com/ankitwork9808/releases/main/athene/1.1.1/download/Athene.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWlUU2ZDa0RVWmNwd0sxNkhGWHFNU0J4UlRoREJ6b0tIdkpyMW9xRUo4OUlCM2k2R1U1ZWdGcU9TMjFhbXZkQ3lCTjFBQ0dnTHgzU2dVbGdLbDVoRWdXWjRUOTZ5RHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk3MjQ1CWZpbGU6QXRoZW5lLmFwcC50YXIuZ3oKVUJ4TXBQM0JISXJza3I4WWwyaHR3RkdEYWpQbWlBZzJzMGVXT1VzR3ZuV3RqN1lZeVhUQ1ZKNDc1dGRMeDd5WTNRVllPdG1RUDY3eHRsWHM3ZkpHQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/ankitwork9808/releases/main/athene/1.1.2/download/Athene.app.tar.gz"
     }
   }
 }
