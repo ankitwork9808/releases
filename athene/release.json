@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T20:48:05Z",
+  "updatedAt": "2026-10-17T10:06:54Z",
   "days": [
+    {
+      "date": "2026-10-17",
+      "version": "1.1.4",
+      "changes": [
+        {
+          "type": "improvement",
+          "text": "AI Rewrite follows the focused field, app, and the chat\u2019s own language and tone, and stays in the notch when a paste is missed"
+        },
+        {
+          "type": "improvement",
+          "text": "Meeting summaries write clearer notes and todos, and transcription shows progress and timing while speakers are labeled"
+        },
+        {
+          "type": "improvement",
+          "text": "The notch hides when idle, auto-reply can switch back to a normal chat, and deleting a meeting asks for confirmation first"
+        },
+        {
+          "type": "improvement",
+          "text": "Pinned threads tilt the pin when the sidebar is pinned"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "version": "1.1.2",
