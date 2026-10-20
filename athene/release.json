@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-17T10:06:54Z",
+  "updatedAt": "2026-10-20T22:28:07Z",
   "days": [
+    {
+      "date": "2026-10-20",
+      "version": "1.2.0",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Home dashboard with a short view of recent notes and todos, plus an activity tracker"
+        },
+        {
+          "type": "feature",
+          "text": "Global Todo: browse todos across every list by date range, with KPIs for deadline, created, completed, and passed"
+        },
+        {
+          "type": "feature",
+          "text": "Global Note: browse notes across every list by date range, with KPIs for notes, lists, sources, and long notes"
+        },
+        {
+          "type": "feature",
+          "text": "Shared card layout and click-to-open action toolbar for todos and notes (edit, delete, move; todos keep repeat, deadline, and history; notes add Show full note)"
+        },
+        {
+          "type": "improvement",
+          "text": "UI polish: day headers, note row separators with two-line previews, and quieter focus styles on sheet inputs"
+        },
+        {
+          "type": "fix",
+          "text": "Performance fixes for smoother scrolling and lighter home and list loads"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "version": "1.1.4",
