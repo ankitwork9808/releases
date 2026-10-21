@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-20T22:28:07Z",
+  "updatedAt": "2026-10-21T07:50:42Z",
   "days": [
+    {
+      "date": "2026-10-21",
+      "version": "1.2.1",
+      "changes": [
+        {
+          "type": "feature",
+          "text": "Timeline uses your real day chronicle and activity, with the same date filter as Global Todo and Note"
+        },
+        {
+          "type": "feature",
+          "text": "Timeline app chips show real OS icons, loaded lazily and cached on disk under Application Support"
+        },
+        {
+          "type": "improvement",
+          "text": "Day cards appear first while icons warm in the background, so Timeline stays responsive on first open"
+        },
+        {
+          "type": "improvement",
+          "text": "Timeline expand control and app tiles use a quieter dark style that matches the home cards"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "version": "1.2.0",
